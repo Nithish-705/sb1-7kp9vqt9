@@ -11,10 +11,10 @@ function App() {
             <h1 className="text-5xl font-bold mb-4">B. Nithish Kumar</h1>
             <p className="text-xl mb-8">Software Developer | Programming Enthusiast</p>
             <div className="flex space-x-4">
-              <a href="https://github.com" className="hover:text-blue-200 transition-colors">
+              <a href="https://github.com/Nithish-705" className="hover:text-blue-200 transition-colors">
                 <Github size={24} />
               </a>
-              <a href="https://linkedin.com" className="hover:text-blue-200 transition-colors">
+              <a href="https://www.linkedin.com/in/nithish-kumar-9589532bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" className="hover:text-blue-200 transition-colors">
                 <Linkedin size={24} />
               </a>
               <a href="mailto:23331a4705@mvgrce.edu.in" className="hover:text-blue-200 transition-colors">
